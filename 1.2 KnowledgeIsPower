@@ -1,0 +1,7 @@
+public class KnowledgeIsPower
+{
+    public static void main(String args[])
+    {
+        System.out.println("Knowledge is power" + "\nKnowledge \nIs \nPower" + "\n====================" + "\n|Knowledge Is Power|" + "\n====================");
+    } //end method main
+} //end class KnowledgeIsPower
