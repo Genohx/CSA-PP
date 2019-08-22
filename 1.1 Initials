@@ -1,0 +1,5 @@
+public class MyInitials {
+    public static void main(String args[]) {
+      System.out.println("JJJJJJJJJJJJ\t\t  SSSS\nJJJJJJJJJJJJ\t\tSSSSSSSS\n\tJJJ\t\t\t\tSSS\n\tJJJ\t\t\t\tSSSSS\n\tJJJ\t\t\t\t   SSSSS\nJ\tJJJ\t\t\t\t\t SSS\n" + " JJJJJ\t\t\t\tSSSSSSSS\n  JJJ\t\t\t\t  SSSS");
+    } //end method main
+} //end class MyInitials
