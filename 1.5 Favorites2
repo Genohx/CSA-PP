@@ -1,0 +1,10 @@
+public class Favorites2
+{
+    public static void main(String args[])
+    {
+        System.out.println ("Name:\t\"Joshie\"");
+        System.out.println ("Birthday:\t02\\06\\02");
+        System.out.println ("Favorite Book:\t\'Snow Crash\'");
+        System.out.println ("Favorite Movie:\t\"Spiderman: Into the Spiderverse\"");
+    } //end method main
+} //end class Favorites2
