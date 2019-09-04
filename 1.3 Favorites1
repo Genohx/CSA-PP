@@ -1,0 +1,9 @@
+public class Favorites1 {
+    public static void main(String args[]) {
+      System.out.println ("Name: Joshua Swineford");
+      System.out.println ("Birthday: February 6 2002");
+      System.out.println ("Hobbies: I mainly play video games, but I'm also learning how to make music and code");
+      System.out.println ("Favorite Book: Snow Crash");
+      System.out.println ("Favorite Movie: Spiderman: Into the Spiderverse");
+    } //end method main
+} //end class Favorites1
