@@ -1,0 +1,9 @@
+public class toSeconds {
+    public static void main(String args[]) {
+      final int HOURS = 3600;
+      final int MINUTES = 60;
+      final int SECONDS = 1;
+      
+      System.out.println("1 hour, 28 minutes, and 42 seconds = " + ((1 * HOURS) + (28 * MINUTES) + (42 * SECONDS)) + " seconds");
+    }//end method main
+}//end class toSeconds
