@@ -1,0 +1,29 @@
+import java.lang.Math;
+import java.util.Scanner;
+
+public class Distance
+{
+    public static void main(String[] args)
+    {
+        Scanner keyboard = new Scanner(System.in);
+        double x1, y1, x2, y2;
+        
+        System.out.print("Enter a value for x1: ");
+        x1 = keyboard.nextInt();
+        
+        System.out.print("Enter a value for y1: ");
+        y1 = keyboard.nextInt();
+        
+        System.out.print("Enter a value for x2: ");
+        x2 = keyboard.nextInt();
+        
+        System.out.print("Enter a value for y2: ");
+        y2 = keyboard.nextInt();
+        
+        double sidex = Math.pow((x2-x1), 2);
+        double sidey = Math.pow((y2-y1), 2);
+        double distance = Math.sqrt(sidex + sidey);
+        
+        System.out.print("Distance between the two points: " + distance);
+    }//end method main
+}//end class Distance
