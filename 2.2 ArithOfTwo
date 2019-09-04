@@ -1,0 +1,10 @@
+public class ArithOfTwo {
+    public static void main(String args[]) {
+      double num1 = 10;
+      double num2 = 5;
+
+      System.out.println("Sum of 10 + 5 = " + (num1 + num2));
+      System.out.println("Difference of 10 / 5: " + (num1/num2));
+      System.out.println("Product of 10 * 5: " + (num1*num2));
+    }//end method main
+}//end class ArithOfTwo
