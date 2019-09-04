@@ -1,0 +1,10 @@
+public class AvgOfThree
+{
+    public static void main(String args[])
+    {
+        int one = 56;
+        int two = 24;
+        int three = 35;
+        System.out.println((one+two+three)/3);
+    } //end method main
+} //end class AvgOfThree
