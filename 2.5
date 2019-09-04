@@ -1,0 +1,20 @@
+public class Name
+{
+    public static void main(String[] args)
+    {
+        String first = new String("Joshua");
+        String last = new String("Swineford");
+        String concat, caps;
+        
+        concat = first.concat(last);
+        
+        System.out.println(concat);
+        System.out.println("Length of first name: " + first.length());
+        System.out.println("Length of last name: " + last.length());
+        System.out.println("Length of both combined: " + (first.length() + last.length()));
+        
+        caps = concat.toUpperCase();
+        
+        System.out.println(caps);
+    }
+}
